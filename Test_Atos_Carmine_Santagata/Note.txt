@@ -1,5 +1,0 @@
-* Comments
- 
-In two hours I completed the structure, but I wanted to improve interface. I haved some issue with
-JSON file and i lost time with it. JSON file is not accessible by some browser, so I tryed to convert
-JSON file to Javascript file and I tryed call variable with array for managing DOM.
